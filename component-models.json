@@ -5513,11 +5513,6 @@
         "value": "wishlist",
         "readOnly": true
       }
-    ],
-    {
-  "id": "brandconcierge",
-  "fields": []
-}
-
+    ]
   }
 ]
